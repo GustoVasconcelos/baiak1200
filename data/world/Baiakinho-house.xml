@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<houses>
+	<house name="Baiak House #1" houseid="2287" entryx="151" entryy="62" entryz="7" rent="0" townid="1" size="18" />
+	<house name="Baiak House #2" houseid="2288" entryx="142" entryy="62" entryz="7" rent="0" townid="1" size="18" />
+	<house name="Baiak House #3" houseid="2289" entryx="159" entryy="62" entryz="7" rent="0" townid="1" size="18" />
+</houses>
